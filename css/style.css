@@ -1,0 +1,86 @@
+body {
+	background: url(../img/p6.png), repeat;
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+a:link, a:visited {
+	color: #006FCC;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #004f92;
+	font-weight: bold;
+}
+
+hr {
+	border: 1px solid #ddd;
+}
+
+header {
+	background: url(../img/usbankpatternred.png), repeat #FF0013;
+	width: 100%;
+	padding: 50px;
+	margin: 0 auto;
+	height: 10px;
+	font-size: 16pt;
+	color: #fff;
+}
+
+header img {
+	width: 200px;
+}
+
+header p a:link {
+	margin-right: 35px;
+	color: #fff;
+}
+
+header p a:last-of-type {
+	margin-right: 0;
+}
+
+header p a:hover {
+	color: #ddd;
+}
+
+
+header p {
+	width: 400px;
+	float: right;
+}
+
+p {
+	font-family: "HelveticaNeue-Regular", Helvetica, Arial, sans-serif;
+	color: #535353;
+	width: 500px;
+	float: left;
+}
+
+h1 {
+	color: #080875;
+	font-family: 'Arvo', serif;
+	font-size: 22pt;
+}
+
+h2 {
+	color: #000;
+	font-family: "HelveticaNeue-CondensedBold", Helvetica, Arial, sans-serif;
+	font-size: 20pt;
+}
+
+h3 {
+	color: #000;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+div#wrapper {
+	width: 1100px;
+	padding: 20px;
+	margin: 0 auto;
+}
